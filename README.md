@@ -52,7 +52,7 @@ Abaixo está o diagrama UML que representa a estrutura do projeto:
 1.  Clone o repositório:
 
     ``` bash
-    git clone <url-do-repositorio>
+    git clone https://github.com/GiovannyEnes/IphoneWithUML.git
     ```
 
 2.  Acesse a pasta do projeto:
